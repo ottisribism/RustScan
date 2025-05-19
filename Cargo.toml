@@ -1,5 +1,5 @@
 [package]
-name = "rustscan"
+name = "rs"
 version = "2.4.1"
 authors = ["Autumn <autumn@skerritt.blog>"]
 edition = "2018"
